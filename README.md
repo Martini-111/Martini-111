@@ -1,5 +1,4 @@
-Hello, this is Martin's github README. I'm interested in AI and Game Dev. 
-Still figuring out the website.
+Hello, this is Martin's github README. I'm studying AI and Game Dev. 
 
 <!---
 Martini-111/Martini-111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
